@@ -6,7 +6,7 @@ public class JavaTest {
 		System.out.println("this is a test");
 		System.out.println("1234");
 		
-		//OK 222
+		//OK 2222
 	}
 
 }
